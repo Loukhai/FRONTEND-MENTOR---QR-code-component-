@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/semantic-html-bem-naming-css-flexbox-custom-css-class-name-styling-pZUA-YZc-g](https://www.frontendmentor.io/solutions/semantic-html-bem-naming-css-flexbox-custom-css-class-name-styling-pZUA-YZc-g)
 - Live Site URL: [https://loukhai.github.io/FRONTEND-MENTOR---QR-code-component-/](https://loukhai.github.io/FRONTEND-MENTOR---QR-code-component-/)
 - GitHub Repo : [rabia loukhai FrontendMentor solution QR-code-component](https://github.com/Loukhai/FRONTEND-MENTOR---QR-code-component-)
 
