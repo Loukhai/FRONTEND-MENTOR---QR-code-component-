@@ -47,17 +47,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I made sure the QR card with a semantic HTML with practicing the BEM methodology in the classes nomination.
 
 ```html
-<article>
-  <!-- code ...-->
-  <h2 class="card__description--title">
-    Improve your front-end skills by building projects
-  </h2>
-  <p class="card__description--text">
-    Scan the QR code to visit Frontend Mentor and take your coding skills to the
-    next level
-  </p>
-  <!-- ...code -->
-</article>
+<article class="card__description flex_center">
+          <h1 class="card__description--title">
+            Improve your front-end skills by building projects
+          </h1>
+          <p class="card__description--text">
+            Scan the QR code to visit Frontend Mentor and take your coding
+            skills to the next level
+          </p>
+        </article>
 ```
 
 #### 2- In CSS
