@@ -19,6 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
+  - [Donations :](#donations-)
 
 ## Overview
 
@@ -105,3 +106,7 @@ I will be practice more projects to improve my skills like a front-end web devel
 ## Acknowledgments
 
 - The helpful recommendations from the COMMUNITY FEEDBACK of Frontend Mentor ❤️.
+
+## Donations :
+
+- You can support me & buy me a coffee ❤️✨☕[https://www.buymeacoffee.com/rabialoukhai](https://www.buymeacoffee.com/rabialoukhai)
