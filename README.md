@@ -87,7 +87,7 @@ This is my first time that i write a documentation, i guess that is good practic
 
 ### Continued development
 
-I will be practice more projects to improve my skills in like a front-end web developer
+I will be practice more projects to improve my skills like a front-end web developer
 
 ### Useful resources
 
