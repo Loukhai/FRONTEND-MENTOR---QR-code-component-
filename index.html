@@ -32,24 +32,22 @@
         align-items: center;
         flex-wrap: nowrap;
         flex-direction: column;
-        gap: 25px;
+        gap: 20px;
       }
 
       /*  regular classes  */
       .container__card {
         background-color: hsl(212, 45%, 89%);
-        width: 100vw;
-        max-width: 1440px;
-        height: 100vh;
+        min-height: 100vh;
         font-family: "Outfit", sans-serif;
         text-align: center;
       }
       .card {
         background-color: hsl(0, 0%, 100%);
         width: 100%;
-        max-width: 315px;
-        padding: 15px;
-        padding-bottom: 35px;
+        max-width: 320px;
+        padding: 16px;
+        padding-bottom: 44px;
         border-radius: 10px;
       }
 
@@ -61,16 +59,16 @@
         border-radius: 10px;
       }
       .card__description {
-        width: 90%;
+        width: 88.125%;
       }
-      .card__description--title {
+      .description__title {
         color: hsl(218, 44%, 22%);
         font-weight: 700;
-        font-size: 22px;
+        font-size: 1.375rem;
       }
-      .card__description--text {
+      .description__text {
         color: hsl(220, 15%, 55%);
-        font-size: 15px;
+        font-size: 0.9375rem;
         font-weight: 400;
       }
     </style>
@@ -79,17 +77,13 @@
     <div class="container__card flex_center">
       <main class="card flex_center">
         <div class="card__imgContainer">
-          <img
-            src="images/image-qr-code.png"
-            alt="image-qr-code"
-            class="card__img"
-          />
+          <img src="images/image-qr-code.png" alt="qr-code" class="card__img" />
         </div>
         <article class="card__description flex_center">
-          <h1 class="card__description--title">
+          <h1 class="description__title">
             Improve your front-end skills by building projects
           </h1>
-          <p class="card__description--text">
+          <p class="description__text">
             Scan the QR code to visit Frontend Mentor and take your coding
             skills to the next level
           </p>
